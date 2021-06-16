@@ -1,0 +1,174 @@
+Mon Sep 10 21:16:03 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153409	   2784	  24749	 180942	  2c2ce	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Mon Sep 10 21:16:51 2018
+   text	   data	    bss	    dec	    hex	filename
+ 146610	   1592	  22797	 170999	  29bf7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_NtagIcode_JN5169_DR1199.elf
+Mon Sep 10 21:18:07 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153390	   1388	  23001	 177779	  2b673	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_NtagIcode_JN5169_DR1175.elf
+Mon Sep 10 21:19:20 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153341	   2784	  24765	 180890	  2c29a	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DONGLE.elf
+Mon Sep 17 22:03:30 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153409	   2784	  24749	 180942	  2c2ce	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Mon Sep 17 22:04:33 2018
+   text	   data	    bss	    dec	    hex	filename
+ 146610	   1592	  22797	 170999	  29bf7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_NtagIcode_JN5169_DR1199.elf
+Mon Sep 17 22:05:54 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153390	   1388	  23001	 177779	  2b673	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_NtagIcode_JN5169_DR1175.elf
+Mon Sep 17 22:07:09 2018
+   text	   data	    bss	    dec	    hex	filename
+ 153341	   2784	  24765	 180890	  2c29a	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DONGLE.elf
+Mon Sep 17 22:13:22 2018
+   text	   data	    bss	    dec	    hex	filename
+ 161420	   3232	  24837	 189489	  2e431	c:/NXP/LPCXpresso_7.9.2_493/lpcxpresso/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5179_DR1199.elf
+Mon Sep 17 22:14:19 2018
+   text	   data	    bss	    dec	    hex	filename
+ 161240	   3232	  24837	 189309	  2e37d	c:/NXP/LPCXpresso_7.9.2_493/lpcxpresso/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5179_DONGLE.elf
+Mon Sep 17 22:15:17 2018
+   text	   data	    bss	    dec	    hex	filename
+ 162256	   1840	  23081	 187177	  2db29	c:/NXP/LPCXpresso_7.9.2_493/lpcxpresso/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_NtagIcode_JN5179_DR1175.elf
+Mon Sep 17 22:16:14 2018
+   text	   data	    bss	    dec	    hex	filename
+ 142796	   1984	  22801	 167581	  28e9d	c:/NXP/LPCXpresso_7.9.2_493/lpcxpresso/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_NtagIcode_JN5179_DR1199.elf
+Thu Dec 24 15:28:16 2020
+   text	   data	    bss	    dec	    hex	filename
+ 153409	   2784	  24749	 180942	  2c2ce	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Thu Dec 24 15:31:42 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135078	   1576	  22229	 158883	  26ca3	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 15:40:30 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135078	   1576	  22229	 158883	  26ca3	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 15:45:29 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135078	   1576	  22229	 158883	  26ca3	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 15:50:05 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134842	   1576	  22229	 158647	  26bb7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 15:53:38 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134842	   1576	  22229	 158647	  26bb7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 15:58:42 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134790	   1576	  22229	 158595	  26b83	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 16:03:24 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134890	   1576	  22229	 158695	  26be7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 16:27:21 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134926	   1576	  22229	 158731	  26c0b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 16:30:27 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134930	   1576	  22229	 158735	  26c0f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 16:47:48 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134930	   1576	  22229	 158735	  26c0f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 16:48:12 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134930	   1576	  22229	 158735	  26c0f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 17:05:44 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134934	   1576	  22229	 158739	  26c13	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 17:16:37 2020
+   text	   data	    bss	    dec	    hex	filename
+ 134978	   1576	  22229	 158783	  26c3f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 17:18:04 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135074	   1576	  22229	 158879	  26c9f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 17:29:23 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135494	   1576	  22229	 159299	  26e43	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 17:57:45 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135502	   1576	  22229	 159307	  26e4b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 18:00:45 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135506	   1576	  22229	 159311	  26e4f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 18:08:13 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135506	   1576	  22229	 159311	  26e4f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 18:09:05 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135514	   1576	  22229	 159319	  26e57	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Thu Dec 24 18:16:59 2020
+   text	   data	    bss	    dec	    hex	filename
+ 135522	   1576	  22229	 159327	  26e5f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:15:56 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137170	   1592	  22381	 161143	  27577	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:18:15 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137170	   1592	  22381	 161143	  27577	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:19:07 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137170	   1592	  22381	 161143	  27577	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:20:34 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137174	   1592	  22381	 161147	  2757b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:21:07 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137174	   1592	  22381	 161147	  2757b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:22:07 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137174	   1592	  22381	 161147	  2757b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 11:43:21 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137530	   1592	  22381	 161503	  276df	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 14:11:31 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137542	   1592	  22381	 161515	  276eb	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 14:30:48 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137630	   1592	  22381	 161603	  27743	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Fri Dec 25 14:51:11 2020
+   text	   data	    bss	    dec	    hex	filename
+ 137754	   1592	  22413	 161759	  277df	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Sat Dec 26 11:08:51 2020
+   text	   data	    bss	    dec	    hex	filename
+ 138642	   1592	  22437	 162671	  27b6f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Sat Dec 26 11:10:03 2020
+   text	   data	    bss	    dec	    hex	filename
+ 138574	   1592	  22437	 162603	  27b2b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Sat Dec 26 16:19:58 2020
+   text	   data	    bss	    dec	    hex	filename
+ 153409	   2784	  24749	 180942	  2c2ce	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Sat Dec 26 16:33:29 2020
+   text	   data	    bss	    dec	    hex	filename
+ 138486	   1592	  22437	 162515	  27ad3	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Sat Dec 26 16:43:17 2020
+   text	   data	    bss	    dec	    hex	filename
+ 138494	   1592	  22437	 162523	  27adb	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Tue Jan 05 15:44:47 2021
+   text	   data	    bss	    dec	    hex	filename
+ 153405	   2784	  24749	 180938	  2c2ca	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Tue Jan 05 17:40:21 2021
+   text	   data	    bss	    dec	    hex	filename
+ 138478	   1592	  22437	 162507	  27acb	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Tue Jan 05 17:55:20 2021
+   text	   data	    bss	    dec	    hex	filename
+ 138458	   1592	  22437	 162487	  27ab7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 10:04:23 2021
+   text	   data	    bss	    dec	    hex	filename
+ 131710	   1580	  22417	 155707	  2603b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 10:07:29 2021
+   text	   data	    bss	    dec	    hex	filename
+ 131726	   1580	  22417	 155723	  2604b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 10:14:44 2021
+   text	   data	    bss	    dec	    hex	filename
+ 138474	   1592	  22437	 162503	  27ac7	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 10:36:53 2021
+   text	   data	    bss	    dec	    hex	filename
+ 138562	   1592	  22437	 162591	  27b1f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 10:41:47 2021
+   text	   data	    bss	    dec	    hex	filename
+ 131794	   1580	  22417	 155791	  2608f	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 10:43:43 2021
+   text	   data	    bss	    dec	    hex	filename
+ 131782	   1580	  22417	 155779	  26083	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf
+Wed Jan 06 15:41:56 2021
+   text	   data	    bss	    dec	    hex	filename
+ 131766	   1580	  22417	 155763	  26073	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/EndDevice/Build/EndDevice_JN5169_DR1199.elf

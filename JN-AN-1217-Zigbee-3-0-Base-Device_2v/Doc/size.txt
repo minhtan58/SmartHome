@@ -1150,3 +1150,27 @@ Thu Apr 08 11:20:56 2021
 Thu Apr 08 11:21:38 2021
    text	   data	    bss	    dec	    hex	filename
  140398	   1440	  24741	 166579	  28ab3	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_JN5169_DR1175.elf
+Tue Jun 01 17:54:01 2021
+   text	   data	    bss	    dec	    hex	filename
+ 153745	   2784	  24749	 181278	  2c41e	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Tue Jun 01 18:10:55 2021
+   text	   data	    bss	    dec	    hex	filename
+ 140918	   1440	  24805	 167163	  28cfb	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_JN5169_DR1175.elf
+Tue Jun 01 18:32:40 2021
+   text	   data	    bss	    dec	    hex	filename
+ 153745	   2784	  24749	 181278	  2c41e	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Tue Jun 01 18:35:03 2021
+   text	   data	    bss	    dec	    hex	filename
+ 140918	   1440	  24805	 167163	  28cfb	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_JN5169_DR1175.elf
+Thu Jun 03 16:25:44 2021
+   text	   data	    bss	    dec	    hex	filename
+ 153745	   2784	  24749	 181278	  2c41e	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Coordinator/Build/Coordinator_JN5169_DR1199.elf
+Thu Jun 03 16:29:35 2021
+   text	   data	    bss	    dec	    hex	filename
+ 140998	   1440	  24821	 167259	  28d5b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_JN5169_DR1175.elf
+Thu Jun 03 16:30:44 2021
+   text	   data	    bss	    dec	    hex	filename
+ 140998	   1440	  24821	 167259	  28d5b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_JN5169_DR1175.elf
+Thu Jun 10 14:03:02 2021
+   text	   data	    bss	    dec	    hex	filename
+ 140998	   1440	  24821	 167259	  28d5b	c:/NXP/bstudio_nxp/workspace/JN-AN-1217-Zigbee-3-0-Base-Device/Router/Build/Router_JN5169_DR1175.elf

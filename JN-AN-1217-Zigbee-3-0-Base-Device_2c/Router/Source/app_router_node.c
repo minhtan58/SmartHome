@@ -158,7 +158,7 @@ PUBLIC void APP_cbTimerDimmer(void *pvParam){
 PUBLIC void APP_cbTimerSendReport(void *pvParam){
 	APP_vSetLedDimmer(FALSE);
 	APP_vReportStatusButtonImmediately(1);
-	ZTIMER_eStart(u8TimerSendReport, ZTIMER_TIME_SEC(10800));
+	ZTIMER_eStart(u8TimerSendReport, ZTIMER_TIME_SEC(3600));
 }
 
 PUBLIC void APP_cbTimerCheckReset(void *pvParam){
@@ -224,6 +224,23 @@ PRIVATE void vAppSendOnOffGroup(uint8 endpoint,uint8 onoff)
     sDestinationAddress.eAddressMode = E_ZCL_AM_GROUP;
     sDestinationAddress.uAddress.u16DestinationAddress = eNodePair[endpoint-1].u8Group;
     eCLD_OnOffCommandSend(1,1,&sDestinationAddress,&u8seqNo,onoff);
+}
+
+PUBLIC void ReportData(uint8 endpoint, uint8 enable_ep, uint8 enable_gp){
+	uint16 u16Offset = 0;
+	tsZCL_Address    sAddress;
+	sAddress.uAddress.u16DestinationAddress = 0x0000;
+	sAddress.eAddressMode = E_ZCL_AM_SHORT;
+	PDUM_thAPduInstance hAPduInst = PDUM_hAPduAllocateAPduInstance(apduZDP);
+	u16Offset += PDUM_u16APduInstanceWriteNBO(hAPduInst,u16Offset, "bbb",endpoint,enable_ep,enable_gp);
+	eZCL_TransmitDataRequest(
+				hAPduInst,
+				u16Offset,
+				1,
+				1,
+				0x3333,
+				&sAddress);
+	PDUM_eAPduFreeAPduInstance(hAPduInst);
 }
 /****************************************************************************
  *
@@ -492,6 +509,7 @@ PUBLIC void APP_taskRouter(void)
 				if(eSceneID[0]){
 					APP_vSetLedDimmer(TRUE);
 					APP_vSetLed3(TRUE);
+					sBaseDevice.sMyScenesServerCluster.u8MyScenes = 2;
 					APP_vReportStatusScenesImmediately(1);
 					ZTIMER_eStart(u8TimerRem, ZTIMER_TIME_MSEC(200));
 					ZTIMER_eStart(u8TimerDimmer, ZTIMER_TIME_MSEC(5000));
@@ -519,6 +537,7 @@ PUBLIC void APP_taskRouter(void)
 				if(eSceneID[1]){
 					APP_vSetLedDimmer(TRUE);
 					APP_vSetLed2(TRUE);
+					sBaseDeviceSwitch1.sMyScenesServerCluster.u8MyScenes = 2;
 					APP_vReportStatusScenesImmediately(2);
 					ZTIMER_eStart(u8TimerRem, ZTIMER_TIME_MSEC(200));
 					ZTIMER_eStart(u8TimerDimmer, ZTIMER_TIME_MSEC(5000));
@@ -611,7 +630,7 @@ PRIVATE void vAppHandleAfEvent( BDB_tsZpsAfEvent *psZpsAfEvent)
         if ((psZpsAfEvent->sStackEvent.eType == ZPS_EVENT_APS_DATA_INDICATION) ||
             (psZpsAfEvent->sStackEvent.eType == ZPS_EVENT_APS_INTERPAN_DATA_INDICATION))
         {
-            if(psZpsAfEvent->sStackEvent.uEvent.sApsDataIndEvent.u16ClusterId == 0x1234){
+            if(psZpsAfEvent->sStackEvent.uEvent.sApsDataIndEvent.u16ClusterId == 0x0333){
 				PDUM_u16APduInstanceReadNBO(psZpsAfEvent->sStackEvent.uEvent.sApsDataIndEvent.hAPduInst,0,"bbbbbb",&buf);
 				DBG_vPrintf(TRUE, "AT %d %d %d %d %d %d\n\r", buf[0],buf[1],buf[2],buf[3],buf[4],buf[5]);
 				DBG_vPrintf(TRUE, "AT %d\n\r", ZNC_RTN_U16(buf,0));
@@ -622,6 +641,7 @@ PRIVATE void vAppHandleAfEvent( BDB_tsZpsAfEvent *psZpsAfEvent)
             		eNodePair[0].enable_ep = buf[3];
             		eNodePair[0].u8Group = buf[4];
             		eNodePair[0].enable_group = buf[5];
+            		ReportData(ROUTER_APPLICATION_ENDPOINT,buf[3],buf[5]);
             	}
             	if(psZpsAfEvent->u8EndPoint == ROUTER_SWITCH1_ENDPOINT){
             		eNodePair[1].u16Adress = ZNC_RTN_U16(buf,0);
@@ -629,6 +649,7 @@ PRIVATE void vAppHandleAfEvent( BDB_tsZpsAfEvent *psZpsAfEvent)
             		eNodePair[1].enable_ep = buf[3];
             		eNodePair[1].u8Group = buf[4];
             		eNodePair[1].enable_group = buf[5];
+            		ReportData(ROUTER_SWITCH1_ENDPOINT,buf[3],buf[5]);
             	}
 				PDM_eSaveRecordData( PDM_ID_APP_PAIR,
 									 &eNodePair[0],

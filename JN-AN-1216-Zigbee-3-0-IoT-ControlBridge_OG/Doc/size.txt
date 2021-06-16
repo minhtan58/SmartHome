@@ -1,0 +1,30 @@
+Tue Dec 01 11:26:06 2020
+   text	   data	    bss	    dec	    hex	filename
+ 211108	   1960	  29781	 242849	  3b4a1	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_1000000.elf
+Mon Mar 15 10:08:40 2021
+   text	   data	    bss	    dec	    hex	filename
+ 211108	   1960	  29781	 242849	  3b4a1	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Wed Mar 17 14:21:39 2021
+   text	   data	    bss	    dec	    hex	filename
+ 211732	   1964	  29557	 243253	  3b635	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Wed Mar 17 14:30:17 2021
+   text	   data	    bss	    dec	    hex	filename
+ 211732	   1964	  29557	 243253	  3b635	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Wed Mar 17 14:45:51 2021
+   text	   data	    bss	    dec	    hex	filename
+ 214706	   1968	  29537	 246211	  3c1c3	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Wed Mar 17 15:26:16 2021
+   text	   data	    bss	    dec	    hex	filename
+ 214778	   1976	  29529	 246283	  3c20b	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Wed Mar 17 15:27:58 2021
+   text	   data	    bss	    dec	    hex	filename
+ 214770	   1976	  29529	 246275	  3c203	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Mon Mar 29 15:59:53 2021
+   text	   data	    bss	    dec	    hex	filename
+ 214770	   1976	  29529	 246275	  3c203	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Mon Mar 29 16:14:17 2021
+   text	   data	    bss	    dec	    hex	filename
+ 214790	   1976	  29529	 246295	  3c217	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf
+Wed Mar 31 14:17:19 2021
+   text	   data	    bss	    dec	    hex	filename
+ 214786	   1976	  29529	 246291	  3c213	ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_115200.elf

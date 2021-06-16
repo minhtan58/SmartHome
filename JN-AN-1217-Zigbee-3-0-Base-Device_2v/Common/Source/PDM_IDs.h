@@ -58,6 +58,7 @@ extern "C" {
 #define PDM_ID_APP_SCENES         	0xB
 #define PDM_ID_APP_ONOFF         	0xC
 #define PDM_ID_APP_CHECK         	0xD
+#define PDM_ID_APP_PAIR         	0xE
 #define PDM_ID_APP_NFC_NWK_NCI      0x30
 #define PDM_ID_APP_NFC_ICODE        0x31
 

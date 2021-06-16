@@ -558,12 +558,15 @@ PRIVATE void APP_vHandleClusterCustomCommands(tsZCL_CallBackEvent *psEvent)
         	DBG_vPrintf(TRUE, "\n:::CLOSURE_CLUSTER_ID_MYSCENES:::\n");
         	if(psEvent->u8EndPoint == ROUTER_APPLICATION_ENDPOINT){
         		eSceneID[0] = sBaseDevice.sMyScenesServerCluster.u8MyScenes;
+        		APP_vReportStatusScenesImmediately(1);
         	}
         	if(psEvent->u8EndPoint == ROUTER_SWITCH1_ENDPOINT){
         		eSceneID[1] = sBaseDeviceSwitch1.sMyScenesServerCluster.u8MyScenes;
+        		APP_vReportStatusScenesImmediately(2);
         	}
         	if(psEvent->u8EndPoint == ROUTER_SWITCH2_ENDPOINT){
         		eSceneID[2] = sBaseDeviceSwitch2.sMyScenesServerCluster.u8MyScenes;
+        		APP_vReportStatusScenesImmediately(3);
         	}
 
             PDM_eSaveRecordData( PDM_ID_APP_SCENES,
